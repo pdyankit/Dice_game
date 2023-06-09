@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+}
+body {
+    background-color: #393E46;
+}
+h1 {
+    color: #4ECCA3;
+    font-size: 7rem;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+.dice1{
+   display: inline-block;
+   padding-right: 150px;
+}
+.dice2 {
+    display: inline-block;
+    padding-left:150px
+}
+p{
+    text-align: center;
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
